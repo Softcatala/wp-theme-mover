@@ -1,5 +1,5 @@
 {
-    "name": "Softcatala/wp-theme-mover",
+    "name": "softcatala/wp-theme-mover",
     "type": "wordpress-plugin",
     "description": "Extension to provide an additional location for themes",
     "extra": {
