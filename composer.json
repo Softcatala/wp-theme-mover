@@ -1,0 +1,10 @@
+{
+    "name": "Softcatala/wp-theme-mover",
+    "type": "wordpress-plugin",
+    "description": "Extension to provide an additional location for themes",
+    "extra": {
+        "branch-alias": {
+            "dev-master": "0.1.0"
+        }
+    }
+}
